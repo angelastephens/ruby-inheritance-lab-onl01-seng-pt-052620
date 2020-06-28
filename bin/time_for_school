@@ -14,7 +14,13 @@ avi.last_name = "Flombaum"
 
 jim=User.new
 jim.first_name="Jim"
-jim.last_name="Smith'
+jim.last_name="Smith"
+
+randy=User.Student.new
+randy.first_name="Randy"
+randy.last_name="Rogers"
+
+randy.some_knowledge
 
 
 some_knowledge = avi.teach 
