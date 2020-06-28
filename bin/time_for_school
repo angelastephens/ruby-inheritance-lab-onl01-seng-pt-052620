@@ -20,7 +20,7 @@ randy=User.Student.new
 randy.first_name="Randy"
 randy.last_name="Rogers"
 
-randy.some_knowledge
+randy.learn(some_knowledge)
 
 
 some_knowledge = avi.teach 
